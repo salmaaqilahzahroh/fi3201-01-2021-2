@@ -14,4 +14,3 @@ Hello world! 3 time
 Hello world! 4 time
 ```
 
-Proof at OneCompiler 3xqshgqmn
