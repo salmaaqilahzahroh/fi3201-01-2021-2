@@ -31,7 +31,9 @@ def animate(i):
     x = np.linspace(0, 2, 1000)
 		
 		# ---- equation of y ----
-		
+		# y = np.sin(np.pi * (x - 0.01 * i))
+		# y = np.sin(np.pi * (x + 0.01 * i))
+		# y = np.sin(np.pi * x) * np.cos(np.pi * 0.01 * i)
 		# -----------------------
 		
     line.set_data(x, y)
@@ -95,7 +97,7 @@ Modifikasi program yang diberikan sehingga dapat menggambarkan gelombang yang me
 ### answer 3
 Potongan kode yang perlu disisipkan adalah
 ```
-y = np.sin(np.pi*(x + 0.01*  i))
+y = np.sin(np.pi * (x + 0.01 * i))
 ```
 dan hasil berkas gifnya adalah \
 ![gif file from simulation wave to left](https://github.com/salmaaqilahzahroh/fi3201-01-2021-2/blob/main/assignments/04/10218062/basic_animation%20wave%20to%20left.gif)
