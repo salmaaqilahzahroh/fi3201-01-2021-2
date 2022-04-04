@@ -66,7 +66,6 @@ Jelaskan dengan singkat hal yang dihasillkan oleh kode yang diberikan.
 
 ### answer 4
 Kode di atas berfungsi untuk
-+ ..
-+  
-+ ..
++ mengubah angka (integer) menjadi kotak berwarna hitam atau putih (char) sesuai jumlah angka tersebut
+
 
