@@ -84,7 +84,7 @@ Potongan kode yang perlu disisipkan adalah
 ```
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to right]()
+![gif file from simulation wave to right](basic_animation wave to right)
 
 
 ## question 3
@@ -95,7 +95,7 @@ Potongan kode yang perlu disisipkan adalah
 ```
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave to left]()
+![gif file from simulation wave to left](basic_animation wave to left)
 
 
 ## question 4
@@ -106,4 +106,4 @@ Potongan kode yang perlu disisipkan adalah
 ```
 ```
 dan hasil berkas gifnya adalah \
-![gif file from simulation wave stationary]()
+![gif file from simulation wave stationary](basic_animation wave stationary)
